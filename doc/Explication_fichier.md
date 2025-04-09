@@ -1,0 +1,9 @@
+- circlean_fs : Partie OS du projet (comme si j'installe raspiOS de base sans rien)
+- deb : ????
+- diode_controller : Mise en place et configuration d'une diode théorique qui serait allumé quand le traitement de la clé USB est en cours
+- doc : Répertoire de fiches techniques/notes/TODOlist
+- fs_get_shell : Fichier de configuration de l'OS pour les commande à executer au lancement et ou monter quoi
+- kernel_config : le nom dit tout finalement, sert à configurer le kernel (définition de paramètres et constantes)
+- midi : Chanson en .midi, théoriquement executé pendant l'analyse de la clé USB
+- shell_utils : script d'utilisation basique nécessaire au bon fonctionnement du programme
+- tests : script pour tester que tout fonctionne bien
